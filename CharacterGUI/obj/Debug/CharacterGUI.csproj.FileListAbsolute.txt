@@ -1,0 +1,28 @@
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterGUI/bin/Debug/Character Generator.exe
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterGUI/bin/Debug/Character Generator.pdb
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterGUI/bin/Debug/CharacterLibrary.dll
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterGUI/bin/Debug/CharacterLibrary.pdb
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterGUI/obj/Debug/actool/_PartialAppManifest.items
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterGUI/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterGUI/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterGUI/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterGUI/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterGUI/obj/Debug/CharacterGUI.csproj.AssemblyReference.cache
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterGUI/obj/Debug/CharacterGUI.csproj.CoreCompileInputs.cache
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterGUI/obj/Debug/CharacterGUI.csproj.CopyComplete
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterGUI/obj/Debug/Character Generator.exe
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterGUI/obj/Debug/Character Generator.pdb
+/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterGUI/bin/Debug/Character Generator.exe
+/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterGUI/bin/Debug/Character Generator.pdb
+/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterGUI/bin/Debug/CharacterLibrary.dll
+/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterGUI/bin/Debug/CharacterLibrary.pdb
+/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterGUI/obj/Debug/actool/_PartialAppManifest.items
+/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterGUI/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterGUI/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterGUI/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterGUI/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterGUI/obj/Debug/CharacterGUI.csproj.AssemblyReference.cache
+/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterGUI/obj/Debug/CharacterGUI.csproj.CoreCompileInputs.cache
+/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterGUI/obj/Debug/CharacterGUI.csproj.CopyComplete
+/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterGUI/obj/Debug/Character Generator.exe
+/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterGUI/obj/Debug/Character Generator.pdb

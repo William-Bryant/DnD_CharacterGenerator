@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterCommand/CharacterCommand.csproj": {}
+  },
+  "projects": {
+    "/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterCommand/CharacterCommand.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterCommand/CharacterCommand.csproj",
+        "projectName": "CharacterCommand",
+        "projectPath": "/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterCommand/CharacterCommand.csproj",
+        "packagesPath": "/Users/testUser/.nuget/packages/",
+        "outputPath": "/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterCommand/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/testUser/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterLibrary/CharacterLibrary.csproj": {
+                "projectPath": "/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterLibrary/CharacterLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.25, 3.1.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterLibrary/CharacterLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterLibrary/CharacterLibrary.csproj",
+        "projectName": "CharacterLibrary",
+        "projectPath": "/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterLibrary/CharacterLibrary.csproj",
+        "packagesPath": "/Users/testUser/.nuget/packages/",
+        "outputPath": "/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/testUser/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

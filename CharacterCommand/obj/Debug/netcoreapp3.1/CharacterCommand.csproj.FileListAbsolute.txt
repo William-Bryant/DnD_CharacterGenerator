@@ -1,0 +1,17 @@
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterCommand/bin/Debug/netcoreapp3.1/CharacterCommand
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterCommand/bin/Debug/netcoreapp3.1/CharacterCommand.deps.json
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterCommand/bin/Debug/netcoreapp3.1/CharacterCommand.runtimeconfig.json
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterCommand/bin/Debug/netcoreapp3.1/CharacterCommand.runtimeconfig.dev.json
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterCommand/bin/Debug/netcoreapp3.1/CharacterCommand.dll
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterCommand/bin/Debug/netcoreapp3.1/CharacterCommand.pdb
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterCommand/bin/Debug/netcoreapp3.1/CharacterLibrary.dll
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterCommand/bin/Debug/netcoreapp3.1/CharacterLibrary.pdb
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterCommand/obj/Debug/netcoreapp3.1/CharacterCommand.csproj.AssemblyReference.cache
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterCommand/obj/Debug/netcoreapp3.1/CharacterCommand.GeneratedMSBuildEditorConfig.editorconfig
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterCommand/obj/Debug/netcoreapp3.1/CharacterCommand.AssemblyInfoInputs.cache
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterCommand/obj/Debug/netcoreapp3.1/CharacterCommand.AssemblyInfo.cs
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterCommand/obj/Debug/netcoreapp3.1/CharacterCommand.csproj.CoreCompileInputs.cache
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterCommand/obj/Debug/netcoreapp3.1/CharacterCommand.csproj.CopyComplete
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterCommand/obj/Debug/netcoreapp3.1/CharacterCommand.dll
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterCommand/obj/Debug/netcoreapp3.1/CharacterCommand.pdb
+/Users/testUser/Desktop/CharacterGenerator/CharacterGenerator/CharacterCommand/obj/Debug/netcoreapp3.1/CharacterCommand.genruntimeconfig.cache

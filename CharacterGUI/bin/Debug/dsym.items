@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_AppExtensionDebugSymbolProperties Include="Character Generator.app">
+      <NativeExecutable>Character Generator</NativeExecutable>
+      <CompiledArchitectures></CompiledArchitectures>
+      <NoDSymUtil>true</NoDSymUtil>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <SymbolsList>/Users/testUser/Desktop/CharacterGenerator/DnD_CharacterGenerator/CharacterGUI/obj/Debug/mtouch-symbols.list</SymbolsList>
+    </_AppExtensionDebugSymbolProperties>
+  </ItemGroup>
+</Project>
